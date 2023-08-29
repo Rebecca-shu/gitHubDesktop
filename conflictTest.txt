@@ -1,1 +1,2 @@
 conflict local
+conflict 2
