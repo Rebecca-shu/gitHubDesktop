@@ -1,2 +1,3 @@
 controller
 controller 4
+controller 7-remote
