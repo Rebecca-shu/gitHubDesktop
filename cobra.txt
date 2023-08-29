@@ -1,4 +1,4 @@
 cobra 1
 cobra 2
 cobra 3
-cobra 5-local
+cobra 5-remote
